@@ -17,37 +17,37 @@ Features
 
 Using the project-template online
 ---------------------------------
+
 1. Install the latest Cookiecutter if you haven't installed it yet (this requires
-Cookiecutter 1.4.0 or higher)::
+   Cookiecutter 1.4.0 or higher)::
 
     pip install -U cookiecutter
-
 
 2. Go into the directory where you want to put your package::
 
     cd path/to/your/directory
 
-2. Generate a Python package project and following the instructions in the command line::
+3. Generate a Python package project and follow the instructions in the command line::
 
     cookiecutter https://github.com/VakantieModus/template-project.git
 
-3. Go into the generated project::
+4. Go into the generated project::
 
     cd path/to/your/directory/project-name
 
-4. Generate the venv using the following command::
+5. Generate the venv using the following command::
 
-  project-name/scripts/install_venv.bat
-    
+    project-name/scripts/install_venv.bat
 
 Using the project-template offline
----------------------------------
+----------------------------------
+
 1. Clone the repository by downloading the zip-file and extracting the contents or running the following command::
 
     git clone https://github.com/VakantieModus/template-project
 
 2. Install the latest Cookiecutter if you haven't installed it yet (this requires
-Cookiecutter 1.4.0 or higher)::
+   Cookiecutter 1.4.0 or higher)::
 
     pip install -U cookiecutter
 
@@ -55,7 +55,7 @@ Cookiecutter 1.4.0 or higher)::
 
     cd path/to/your/directory
 
-4. Generate a Python package project and following the instructions in the command line::
+4. Generate a Python package project and follow the instructions in the command line::
 
     cookiecutter https://github.com/VakantieModus/template-project.git
 
@@ -65,7 +65,8 @@ Cookiecutter 1.4.0 or higher)::
 
 6. Generate the venv using the following command::
 
-  project-name/scripts/install_venv.bat
+    project-name/scripts/install_venv.bat
+
 
 
 Fork This / Create Your Own

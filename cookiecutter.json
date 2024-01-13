@@ -6,6 +6,7 @@
   "project_short_description": "Give short description, this will be put in the README",
   "version": "0.1.0",
   "prepare_venv": ["y", "n"],
+  "add_pyup_badge":"y",
   "use_pytest": "n",
   "use_black": "n",
   "create_author_file": ["y", "n"],
