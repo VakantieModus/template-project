@@ -22,7 +22,6 @@ Cookiecutter 1.4.0 or higher)::
 
     pip install -U cookiecutter
 
-
 2. Go into the directory where you want to put your package::
 
     cd path/to/your/directory
@@ -37,8 +36,7 @@ Cookiecutter 1.4.0 or higher)::
 
 4. Generate the venv using the following command::
 
-  project-name/scripts/install_venv.bat
-    
+    project-name/scripts/install_venv.bat
 
 Using the project-template offline
 ---------------------------------
@@ -65,7 +63,7 @@ Cookiecutter 1.4.0 or higher)::
 
 6. Generate the venv using the following command::
 
-  project-name/scripts/install_venv.bat
+    project-name/scripts/install_venv.bat
 
 
 Fork This / Create Your Own
